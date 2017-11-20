@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yitian.Study.CSharpSample.Basic", "Yitian.Study.CSharpSample.Basic\Yitian.Study.CSharpSample.Basic.csproj", "{61EF0127-5C6C-4D1D-ADAF-A8DF966958E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yitian.Study.CSharpSample.Data", "Yitian.Study.CSharpSample.Data\Yitian.Study.CSharpSample.Data.csproj", "{DAFD3189-AEC5-4723-883B-42F98901BE99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{61EF0127-5C6C-4D1D-ADAF-A8DF966958E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61EF0127-5C6C-4D1D-ADAF-A8DF966958E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61EF0127-5C6C-4D1D-ADAF-A8DF966958E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFD3189-AEC5-4723-883B-42F98901BE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFD3189-AEC5-4723-883B-42F98901BE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFD3189-AEC5-4723-883B-42F98901BE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFD3189-AEC5-4723-883B-42F98901BE99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE3E736-870B-4747-9542-2B5C7E5AB0E4}
 	EndGlobalSection
 EndGlobal
