@@ -67,7 +67,7 @@ namespace Yitian.Study.CSharpSample.Data
             Console.WriteLine("所有数据");
             user.Find(new BsonDocument()).ToList().ForEach(e => Console.WriteLine(e));
 
-            //user.DeleteMany(new BsonDocument());
+            user.DeleteMany(new BsonDocument());
         }
     }
 }
