@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Yitian.Study.CSharpSample.Basic
 {
-    class ControllFlow
+    class ControlFlow
     {
         internal static void Show()
         {

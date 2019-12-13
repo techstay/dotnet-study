@@ -14,7 +14,7 @@ namespace Yitian.Study.CSharpSample.Basic
 
             DataType.Show();
             VariableDeclaration.DeclareVariables();
-            ControllFlow.Show();
+            ControlFlow.Show();
             Functions.Show();
         }
     }
